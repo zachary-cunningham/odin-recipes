@@ -1,0 +1,1 @@
+I've learnt a ton about Git, Bash - the terminal is incredibly satisfying to use.
